@@ -4,7 +4,7 @@
  *  Replace m590 with a new one wasnt an option, so I made this skatch.
  *  Originally it tested on m590, but should work with any AT-cmd based controller. Just turn it on.
  *  
- *  Created 2018.02.15 by Papkov C.U.
+ *  Created 2018.02.15 by Papkov K
  *  papkov.c@gmail.com
  *  
  *  ...and baudrate I set was 9800. Misprint.
